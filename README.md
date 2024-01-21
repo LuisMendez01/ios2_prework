@@ -21,10 +21,6 @@ The following **required** functionality is completed:
     <img src='/iOS_result.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' width="300" height="450"/>
 </div>
 
-## Notes
-
-Working with closures instead of delegates was a bit different for sure but exciting.
-
 ## License
 
     Copyright [2024] [Luis Mendez]
